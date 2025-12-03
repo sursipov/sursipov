@@ -6,8 +6,8 @@
 
 ## Contacts
 
-[![Telegram](https://img.shields.io/badge/Telegram-@playwright1337-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sursipov)
-[![GitHub](https://img.shields.io/badge/GitHub-PlayWright1337-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sursipov)
+[![Telegram](https://img.shields.io/badge/Telegram-@sursipov-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sursipov)
+[![GitHub](https://img.shields.io/badge/GitHub-sursipov-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sursipov)
 
 ## 🛠 Skills
 
