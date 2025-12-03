@@ -21,7 +21,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
 
 ### **Tools & DevOps**
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?&logo=selenium&logoColor=white)
 
 ---
 
